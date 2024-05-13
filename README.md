@@ -50,8 +50,7 @@ Focus on addressing challenges and meeting professionals needs.
 
 Snapshot of Dashboard (Power BI Service)
 
-![Dashboard](https://github.com/sravyapaladugu/Project/assets/155795943/5b01017d-d88d-45e1-9f4b-cc7e14b4de87)
-
+![Dashboard](https://github.com/sravyapaladugu/Project/assets/155795943/1ea1033a-7045-4dc3-a5f3-c72c67597744)
 
 Insights
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
